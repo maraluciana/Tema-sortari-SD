@@ -70,7 +70,7 @@ void afisare(int v[], int n)
 
 int main()
 {
-    ifstream fin("test.txt");
+    ifstream fin("test1.txt");
 
 
     int n;
@@ -99,6 +99,8 @@ int main()
 
     afisare(v,n);
 
+    cout << "N = " << n << endl;
+    cout << "Max = " << nrMax << endl;
     cout << "Timp sortare Radix : " << fixed
          << time_taken << setprecision(9);
     cout << " sec" << endl;

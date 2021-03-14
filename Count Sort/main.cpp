@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <bits/stdc++.h>
-#include <chrono>
 #include <cstdlib>
 
 using namespace std;
@@ -49,7 +48,7 @@ void afisare(int v[], int n)
 
 int main()
 {
-    ifstream fin("test.txt");
+    ifstream fin("test1.txt");
 
     int n;
     fin >> n;
@@ -76,7 +75,8 @@ int main()
 
     afisare(v,n);
 
-
+    cout << "N = " << n << endl;
+    cout << "Max = " << nrMax << endl;
     cout << "Timp sortare Count : " << fixed
          << time_taken << setprecision(9);
     cout << " sec" << endl;

@@ -44,7 +44,7 @@ void afisare(int v[], int n)
 
 int main()
 {
-    ifstream fin("test.txt");
+    ifstream fin("test3.txt");
 
     int n;
     fin >> n;
@@ -72,6 +72,8 @@ int main()
 
     afisare(v,n);
 
+    cout << "N = " << n << endl;
+    cout << "Max = " << nrMax << endl;
     cout << "Timp sortare Bubble : " << fixed
          << time_taken << setprecision(9);
     cout << " sec" << endl;
