@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615747060 source:c:\users\mara\desktop\facultate\structuri de date\quick sort\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+

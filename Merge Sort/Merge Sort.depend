@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615748888 source:c:\users\mara\desktop\facultate\structuri de date\tema sd\merge sort\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<cstdlib>
+

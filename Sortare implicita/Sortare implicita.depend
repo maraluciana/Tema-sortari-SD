@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1615747597 source:c:\users\mara\desktop\facultate\structuri de date\sortare implicita\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<algorithm>
+
+1615749061 source:c:\users\mara\desktop\facultate\structuri de date\tema sd\sortare implicita\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<algorithm>
+	<cstdlib>
+

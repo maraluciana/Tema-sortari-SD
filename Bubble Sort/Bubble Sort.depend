@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615738180 source:c:\users\mara\desktop\facultate\structuri de date\bubble sort\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1615748491 source:c:\users\mara\desktop\facultate\structuri de date\tema sd\bubble sort\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<cstdlib>
+
